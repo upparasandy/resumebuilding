@@ -1,0 +1,180 @@
+﻿.main{
+  width:100%;
+  background-color: #Fff;
+  display: flex;
+  flex-direction: row;
+}
+.left{
+  width:25%;
+  border:2px solid blue;
+  background-color:#bd5d38;
+  margin:5px 3px 1px 10px:
+  padding: 5%;
+  margin: 1%;
+}
+.left img{
+  width:200px;
+
+border-radius: 50%;
+box-shadow: 3px 2px 2px #000;
+
+}
+
+
+.right{
+  width:70%;
+  background-color: #fff;
+  border:2px solid green;
+  padding:5%;
+  margin: 1%;
+}
+#name{
+  color:#000;
+}
+.left h1{
+  color:green;
+}
+ .right h2{
+  color:powderblue;
+}
+#edu{
+  color: #999;
+}
+
+
+@media only screen and (max-width:400px)
+ {
+   .main{
+     width:100%;
+     background-color: white;
+     display: flex;
+     flex-direction: column;
+   }
+   	.auto-style1 {
+		margin-top: 224px;
+	}
+
+   .left{
+     width:100%;
+     border:2px solid blue;
+     background-color: #34dd;
+     margin:5px 3px 1px 10px:
+     padding: 5%;
+     margin: 1%;
+   }
+   .left img{
+     width:200px;
+   border-radius: 510%;
+   box-shadow: 3px 2px 2px #000;
+
+   }
+
+
+   .right{
+     width:100%;
+     background-color: #fff;
+     border:2px solid green;
+     padding:5%;
+     margin: 1%;
+   }
+   #name{
+     color:#000;
+   }
+   .left h1{
+     color:green;
+   }
+    .right h2{
+     color:powderblue;
+   }
+   #edu{
+     color: #999;
+   }
+}
+
+
+@media only screen and (max-width:768px)
+ {
+   .main{
+     width:100%;
+     background-color: red;
+     display: flex;
+     flex-direction: column;
+   }
+   .left{
+     width:100%;
+     border:2px solid yellow;
+     background-color: #34dd;
+     margin:5px 3px 1px 10px:
+     padding: 5%;
+     margin: 1%;
+   }
+   .left img{
+     width:200px;
+   border-radius: 50%;
+   box-shadow: 3px 2px 2px #000;
+   }
+
+
+   .right{
+     width:100%;
+     background-color: #ee34;
+     border:2px solid green;
+     padding:5%;
+     margin: 1%;
+   }
+   #name{
+     color:#000;
+   }
+   .left h1{
+     color:green;
+   }
+    .right h2{
+     color:powderblue;
+   }
+   #edu{
+     color: #999;
+   }
+}
+@media only screen and  (min-width:769px) and  (max-width:1028px)
+ {
+   .main{
+     width:100%;
+     background-color:red;
+     display: flex;
+     flex-direction: column;
+   }
+   .left{
+     width:100%;
+     border:2px solid blue;
+     background-color: #34dd;
+     margin:5px 3px 1px 10px:
+     padding: 5%;
+     margin: 1%;
+   }
+   .left img{
+     width:200px;
+   border-radius: 50%;
+   box-shadow: 3px 2px 2px #000;
+   }
+
+
+   .right{
+     width:100%;
+     background-color: #fff;
+     border:2px solid green;
+     padding:5%;
+     margin: 1%;
+   }
+   #name{
+     color:#000;
+   }
+   .left h1{
+     color:green;
+   }
+    .right h2{
+     color:powderblue;
+   }
+   #edu{
+     color: #999;
+   }
+}

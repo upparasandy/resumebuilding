@@ -1,0 +1,61 @@
+{
+  "basics":
+  {
+
+  "photo":"create.jpg",
+  "name":"sandeep",
+  "email":"sandeepminnu14@gmail.com",
+  "mobile":"9885423452"
+
+},
+
+"education":[
+  {
+    "course":"B.tech(computer science and engineering)",
+    "college":[
+      "gpcet",
+      "2015-2019",
+      "61"
+    ]
+
+  },
+  {
+    "course":"intermediate",
+    "college":[
+      "sri chaintanya",
+      "2013-2015",
+      "88"
+    ]
+
+  },
+  {
+    "course":"SSC",
+    "college":[
+      "montessori high school",
+      "2013",
+      "92"
+    ]
+
+  }
+],
+"SKILLS":[
+  {
+    "name":"web technologies",
+    "value":"html,css"
+  },
+  {
+    "name":"operating systems",
+    "value":"linux,windows"
+
+  },
+  {
+    "name":"programming languages",
+    "value":"c,c++,java"
+  }
+
+]
+}
+}
+{
+
+}
